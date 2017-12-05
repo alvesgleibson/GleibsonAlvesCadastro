@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GleibsonAlves-Cadastro</string>
+    <string name="nomeTexto">Nome</string>
+    <string name="emailTexto">Email</string>
+    <string name="idadeTexto">Idade</string>
+    <string name="sexoTexto">Sexo</string>
+    <string name="gravarButao">Gravar na Segunda tela</string>
+    <string name="cadastrar">Outra Activity</string>
+    <string name="voltar">Voltar Activity</string>
+</resources>
